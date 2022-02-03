@@ -124,6 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.js" />
+    <Content Include="editing.png" />
     <Content Include="Global.asax" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Web.config" />
